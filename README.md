@@ -21,6 +21,8 @@ Desenvolvo aplicações que vão além da interface: sistemas de gestão, plataf
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas na UniCesumar** e aplico o conhecimento acadêmico em projetos reais e produtos reutilizáveis.
 
+☕ Nordestino, apaixonado por tecnologia, café e desenvolvimento de soluções que resolvem problemas reais.
+
 > **Tecnologia aplicada a negócios reais.**
 
 ---

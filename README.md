@@ -21,6 +21,8 @@ Desenvolvo aplicações que vão além da interface: sistemas de gestão, plataf
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas na UniCesumar** e aplico o conhecimento acadêmico em projetos reais e produtos reutilizáveis.
 
+🎯 **Buscando minha primeira oportunidade de estágio em desenvolvimento de software**, onde eu possa contribuir com projetos reais, evoluir tecnicamente e aprender com um time de tecnologia.
+
 ☕ Nordestino, apaixonado por tecnologia, café e desenvolvimento de soluções que resolvem problemas reais.
 
 > **Tecnologia aplicada a negócios reais.**

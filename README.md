@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/brand/periclesdev-header.webp" alt="PericlesDev — Planejo, Desenvolvo, Transformo" width="420">
+<img src="./assets/brand/periclesdev-header.png" alt="PericlesDev — Planejo, Desenvolvo, Transformo" width="420">
 
 ### Soluções web, sistemas de gestão e aplicações para negócios reais
 
@@ -181,7 +181,7 @@ Meu objetivo é construir bases reutilizáveis que possam ser personalizadas par
 
 <div align="center">
 
-<img src="./assets/brand/periclesdev-signature.webp" alt="PericlesDev — Planejo, Desenvolvo, Transformo" width="360">
+<img src="./assets/brand/periclesdev-signature.png" alt="PericlesDev — Planejo, Desenvolvo, Transformo" width="360">
 
 **Desenvolvimento de sistemas, aplicações web e soluções digitais para negócios.**
 

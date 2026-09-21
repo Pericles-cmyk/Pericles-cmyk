@@ -170,15 +170,6 @@ Meu objetivo é construir bases reutilizáveis que possam ser personalizadas par
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pericles-cmyk&show_icons=true&locale=pt-br&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles-cmyk&layout=compact&locale=pt-br&hide_border=true" />
-</p>
-
----
-
 <div align="center">
 
 <img src="./assets/brand/periclesdev-signature.png" alt="PericlesDev — Planejo, Desenvolvo, Transformo" width="360">
